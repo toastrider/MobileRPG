@@ -208,6 +208,7 @@ GameObject:
   - 95: {fileID: 323146017}
   - 114: {fileID: 323146018}
   - 225: {fileID: 323146019}
+  - 114: {fileID: 323146020}
   m_Layer: 5
   m_Name: cofagrigus
   m_TagString: Untagged
@@ -299,6 +300,17 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+--- !u!114 &323146020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 323146013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f26af8046bbac44aed947b94be496f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &464308929
 GameObject:
   m_ObjectHideFlags: 0
@@ -407,6 +419,7 @@ GameObject:
   - 95: {fileID: 468787093}
   - 114: {fileID: 468787094}
   - 225: {fileID: 468787095}
+  - 114: {fileID: 468787096}
   m_Layer: 5
   m_Name: gardevoir
   m_TagString: Untagged
@@ -498,6 +511,17 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+--- !u!114 &468787096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 468787089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f26af8046bbac44aed947b94be496f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &541522911
 GameObject:
   m_ObjectHideFlags: 0
@@ -576,6 +600,7 @@ GameObject:
   - 95: {fileID: 630180767}
   - 114: {fileID: 630180768}
   - 225: {fileID: 630180769}
+  - 114: {fileID: 630180770}
   m_Layer: 5
   m_Name: raticate
   m_TagString: Untagged
@@ -667,6 +692,17 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+--- !u!114 &630180770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 630180763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f26af8046bbac44aed947b94be496f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &780507983
 GameObject:
   m_ObjectHideFlags: 0
@@ -679,7 +715,7 @@ GameObject:
   - 114: {fileID: 780507984}
   - 225: {fileID: 780507987}
   m_Layer: 5
-  m_Name: CharMenu
+  m_Name: PMMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -850,6 +886,7 @@ GameObject:
   - 95: {fileID: 1000871996}
   - 114: {fileID: 1000871995}
   - 225: {fileID: 1000871994}
+  - 114: {fileID: 1000871999}
   m_Layer: 5
   m_Name: raticate 1
   m_TagString: Untagged
@@ -941,6 +978,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1000871992}
+--- !u!114 &1000871999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1000871992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f26af8046bbac44aed947b94be496f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1035892759
 GameObject:
   m_ObjectHideFlags: 0
@@ -1235,6 +1283,7 @@ GameObject:
   - 95: {fileID: 1163334167}
   - 114: {fileID: 1163334166}
   - 225: {fileID: 1163334165}
+  - 114: {fileID: 1163334170}
   m_Layer: 5
   m_Name: raticate 3
   m_TagString: Untagged
@@ -1326,6 +1375,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1163334163}
+--- !u!114 &1163334170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1163334163}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f26af8046bbac44aed947b94be496f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1175604579
 GameObject:
   m_ObjectHideFlags: 0
@@ -1447,6 +1507,7 @@ GameObject:
   - 95: {fileID: 1212810241}
   - 114: {fileID: 1212810242}
   - 225: {fileID: 1212810243}
+  - 114: {fileID: 1212810244}
   m_Layer: 5
   m_Name: lucario
   m_TagString: Untagged
@@ -1538,6 +1599,17 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+--- !u!114 &1212810244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1212810237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f26af8046bbac44aed947b94be496f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1248431933
 GameObject:
   m_ObjectHideFlags: 0
@@ -1708,6 +1780,7 @@ GameObject:
   - 95: {fileID: 1333917062}
   - 114: {fileID: 1333917061}
   - 225: {fileID: 1333917060}
+  - 114: {fileID: 1333917065}
   m_Layer: 5
   m_Name: raticate 2
   m_TagString: Untagged
@@ -1799,6 +1872,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1333917058}
+--- !u!114 &1333917065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1333917058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f26af8046bbac44aed947b94be496f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1669200524
 GameObject:
   m_ObjectHideFlags: 0
@@ -1885,6 +1969,7 @@ GameObject:
   - 95: {fileID: 1726398350}
   - 114: {fileID: 1726398351}
   - 225: {fileID: 1726398352}
+  - 114: {fileID: 1726398353}
   m_Layer: 5
   m_Name: octillery
   m_TagString: Untagged
@@ -1976,6 +2061,17 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+--- !u!114 &1726398353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1726398346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f26af8046bbac44aed947b94be496f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1915376864
 GameObject:
   m_ObjectHideFlags: 0
@@ -2228,6 +2324,18 @@ MonoBehaviour:
       - m_Target: {fileID: 780507987}
         m_MethodName: set_alpha
         m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 780507987}
+        m_MethodName: set_interactable
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine, Version=0.0.0.0,
