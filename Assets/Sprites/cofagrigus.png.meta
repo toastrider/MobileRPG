@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 9fe50778e3499b048ad65532ea403822
+timeCreated: 1432841336
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cofagrigus_6
+    21300002: cofagrigus_5
+    21300004: cofagrigus_4
+    21300006: cofagrigus_3
+    21300008: cofagrigus_2
+    21300010: cofagrigus_1
+    21300012: cofagrigus_0
+    21300014: cofagrigus_13
+    21300016: cofagrigus_12
+    21300018: cofagrigus_11
+    21300020: cofagrigus_10
+    21300022: cofagrigus_9
+    21300024: cofagrigus_8
+    21300026: cofagrigus_7
+    21300028: cofagrigus_20
+    21300030: cofagrigus_19
+    21300032: cofagrigus_18
+    21300034: cofagrigus_17
+    21300036: cofagrigus_16
+    21300038: cofagrigus_15
+    21300040: cofagrigus_14
+    21300042: cofagrigus_27
+    21300044: cofagrigus_26
+    21300046: cofagrigus_25
+    21300048: cofagrigus_24
+    21300050: cofagrigus_23
+    21300052: cofagrigus_22
+    21300054: cofagrigus_21
+    21300056: cofagrigus_34
+    21300058: cofagrigus_33
+    21300060: cofagrigus_32
+    21300062: cofagrigus_31
+    21300064: cofagrigus_30
+    21300066: cofagrigus_29
+    21300068: cofagrigus_28
+    21300070: cofagrigus_41
+    21300072: cofagrigus_40
+    21300074: cofagrigus_39
+    21300076: cofagrigus_38
+    21300078: cofagrigus_37
+    21300080: cofagrigus_36
+    21300082: cofagrigus_35
+    21300084: cofagrigus_45
+    21300086: cofagrigus_44
+    21300088: cofagrigus_43
+    21300090: cofagrigus_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cofagrigus_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1437
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1437
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1437
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1437
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1437
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1437
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_0
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1437
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1327
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1327
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1327
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1327
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1327
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1327
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1327
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1217
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1217
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1217
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1217
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1217
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_15
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1217
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_14
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1217
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1107
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1107
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1107
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1107
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_23
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1107
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_22
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1107
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_21
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1107
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 997
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 997
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 997
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_31
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 997
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 997
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_29
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 997
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_28
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 997
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 887
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 887
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 887
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_38
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 887
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_37
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 887
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_36
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 887
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_35
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 887
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_45
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 777
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 777
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_43
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 777
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cofagrigus_42
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 777
+        width: 121
+        height: 89
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

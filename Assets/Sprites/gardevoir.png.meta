@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: fc5fdeb937005ec4ca7a5a897ccadfe4
+timeCreated: 1432834904
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gardevoir_7
+    21300002: gardevoir_6
+    21300004: gardevoir_5
+    21300006: gardevoir_4
+    21300008: gardevoir_3
+    21300010: gardevoir_2
+    21300012: gardevoir_1
+    21300014: gardevoir_0
+    21300016: gardevoir_15
+    21300018: gardevoir_14
+    21300020: gardevoir_13
+    21300022: gardevoir_12
+    21300024: gardevoir_11
+    21300026: gardevoir_10
+    21300028: gardevoir_9
+    21300030: gardevoir_8
+    21300032: gardevoir_23
+    21300034: gardevoir_22
+    21300036: gardevoir_21
+    21300038: gardevoir_20
+    21300040: gardevoir_19
+    21300042: gardevoir_18
+    21300044: gardevoir_17
+    21300046: gardevoir_16
+    21300048: gardevoir_31
+    21300050: gardevoir_30
+    21300052: gardevoir_29
+    21300054: gardevoir_28
+    21300056: gardevoir_27
+    21300058: gardevoir_26
+    21300060: gardevoir_25
+    21300062: gardevoir_24
+    21300064: gardevoir_39
+    21300066: gardevoir_38
+    21300068: gardevoir_37
+    21300070: gardevoir_36
+    21300072: gardevoir_35
+    21300074: gardevoir_34
+    21300076: gardevoir_33
+    21300078: gardevoir_32
+    21300080: gardevoir_47
+    21300082: gardevoir_46
+    21300084: gardevoir_45
+    21300086: gardevoir_44
+    21300088: gardevoir_43
+    21300090: gardevoir_42
+    21300092: gardevoir_41
+    21300094: gardevoir_40
+    21300096: gardevoir_55
+    21300098: gardevoir_54
+    21300100: gardevoir_50
+    21300102: gardevoir_52
+    21300104: gardevoir_51
+    21300106: gardevoir_53
+    21300108: gardevoir_49
+    21300110: gardevoir_48
+    21300112: gardevoir_59
+    21300114: gardevoir_58
+    21300116: gardevoir_57
+    21300118: gardevoir_56
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gardevoir_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1448
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1448
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1448
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1448
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1448
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1448
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1448
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_0
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1448
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1352
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1352
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1352
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1352
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1352
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1352
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1352
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1352
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1256
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1256
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1256
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1256
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1256
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1256
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1256
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1256
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1160
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1160
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_29
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1160
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1160
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1160
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_26
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1160
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_25
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1160
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_24
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1160
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1064
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1064
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_37
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1064
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1064
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1064
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_34
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1064
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_33
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1064
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_32
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1064
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 968
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 968
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 968
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_44
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 968
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 968
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_42
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 968
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 968
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_40
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 968
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 872
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 872
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_50
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 872
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_52
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 872
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 872
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_53
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 872
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_49
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 872
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_48
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 872
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 776
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_58
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 776
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_57
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 776
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gardevoir_56
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 776
+        width: 71
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

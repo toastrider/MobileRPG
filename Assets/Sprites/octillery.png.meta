@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: adf0d112eccfcea499736dbdf5c023ef
+timeCreated: 1432836463
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: octillery_7
+    21300002: octillery_6
+    21300004: octillery_5
+    21300006: octillery_4
+    21300008: octillery_3
+    21300010: octillery_2
+    21300012: octillery_1
+    21300014: octillery_0
+    21300016: octillery_15
+    21300018: octillery_14
+    21300020: octillery_13
+    21300022: octillery_12
+    21300024: octillery_11
+    21300026: octillery_10
+    21300028: octillery_9
+    21300030: octillery_8
+    21300032: octillery_17
+    21300034: octillery_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: octillery_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 349
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 349
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 349
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 349
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 349
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 349
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 349
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_0
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 349
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 281
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 281
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 281
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 281
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 281
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 281
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 281
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_8
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 281
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_17
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 213
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: octillery_16
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 213
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
