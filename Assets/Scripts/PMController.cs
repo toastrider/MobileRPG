@@ -4,6 +4,7 @@ using UnityEngine.EventSystems;
 
 public class PMController : MonoBehaviour, IPointerClickHandler {
 	 
+	public int speed = 10;
 	// Use this for initialization
 	void Start () {
 	

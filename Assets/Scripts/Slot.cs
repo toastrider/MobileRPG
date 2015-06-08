@@ -17,7 +17,11 @@ public class Slot : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointerE
 
 		Draggable d = eventData.pointerDrag.GetComponent<Draggable> ();
 		if (d != null) {
-			d.returnParent = this.transform;
+			if (this.transform.childCount == 1) {
+				Debug.Log (this.transform.GetChild(0).name + " was moved to " + d.returnParent);
+				this.transform.GetChild(0).SetParent(d.returnParent);
+				d.returnParent = this.transform;
+			}
 		}
 	}
 }
